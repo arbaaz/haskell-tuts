@@ -9,5 +9,5 @@ getCode url = simpleHTTP req >>= getResponseCode
     where req = getRequest url
 
 
-main = do
+main = 
   get "http://google.com"
