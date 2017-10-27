@@ -7,5 +7,3 @@ search x xs
     len = length xs `div` 2
     l1 = take len xs
     (y:l2) = drop len xs
-
-
