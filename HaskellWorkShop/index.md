@@ -13,3 +13,24 @@ Weak Head Normal Form and Normal Form
 Spine Strict and Data Lazy
 
 vector
+
+Monad
+Monoid
+SemiGroup
+typeclassopedia
+
+mutable datastructure
+
+import Data.IORef
+
+Rio
+
+MVar
+
+ADT
+
+Software Transactional Memory
+
+Functors = all things that have map
+
+Monads = all things that have bind and pure
